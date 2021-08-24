@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Paulo!
 
-## 📚 Estudando Front-end em geral
+## 📚 Estudando Front-end e Back-end
 
 <div>
   <a href="https://github.com/PauloGuilherm">
