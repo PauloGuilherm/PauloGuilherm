@@ -15,7 +15,7 @@
   <img align="center" alt="Paulo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Paulo-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-    <img align="center" alt="Paulo-React" height="30" width="40" src="https://crossapp.ir/wp-content/uploads/2019/04/1200px-React-icon.svg-600x424.png">
+    <img align="center" alt="Paulo-React" height="35" width="50" src="https://crossapp.ir/wp-content/uploads/2019/04/1200px-React-icon.svg-600x424.png">
    <img align="center" alt="Paulo-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Paulo-Boostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="Paulo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
