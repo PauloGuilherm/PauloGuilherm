@@ -1,6 +1,4 @@
-## Oi! Eu sou o Paulo!
-
-## 📚 Estudando Front-end e Back-end
+## Full Stack DEV
 
 <div>
   <a href="https://github.com/PauloGuilherm">
